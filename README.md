@@ -51,3 +51,12 @@ $ source ~/.bashrc
 $ cd ~/catkin_ws/
 $ catkin_make
 ```
+
+4 本パッケージのインストール
+
+```sh
+$ cd ~/catkin_ws/src  
+$ git clone  https://github.com/TonoLeo/robosys_ROS.git
+$ cd ~/catkin_ws
+$ catkin_make
+``` 
