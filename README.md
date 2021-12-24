@@ -76,3 +76,7 @@ $ rosrun robosys_ROS count.py
 $ rosrun robosys_ROS twice.py
 $ rostopic echo /twice
 ```
+---
+## 実行結果
+
+![image](https://user-images.githubusercontent.com/91268353/147344191-482284ac-2e3c-4071-aef7-8b1cb6477ac7.png)
