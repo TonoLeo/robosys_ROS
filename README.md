@@ -74,4 +74,5 @@ $ roscore &
 ```sh
 $ rosrun robosys_ROS count.py
 $ rosrun robosys_ROS twice.py
+$ rostopic echo /twice
 ```
